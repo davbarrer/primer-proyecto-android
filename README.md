@@ -1,3 +1,3 @@
 # primer-proyecto-android
-Tarea semana 3 del curso fundamentos android
-Este es un ensayo en edición 
+Tarea SEMANA 2 CURSO DESARROLLO DE APLICACIONES ANDROID
+DESCARGAR EL ZIP Y DESCOMPRIMIRLO
